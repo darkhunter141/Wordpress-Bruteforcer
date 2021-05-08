@@ -23,7 +23,12 @@ pkg install python2 && https://github.com/darkhunter141/Wordpress-Bruteforcer &&
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="https://raw.githubusercontent.com/darkhunter141/Fake-Address-Genaretor/main/PicsArt_05-08-02.05.01.jpg">
+<img src="https://github.com/darkhunter141/Wordpress-Bruteforcer/blob/main/IMG_20210508_161806.jpg?raw=true">
+<br>
+<br>
+<h3><b>📸Screenshot</b></h3>
+<br>
+<img src="">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
