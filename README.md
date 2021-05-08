@@ -21,14 +21,14 @@
 pkg install python2 && https://github.com/darkhunter141/Wordpress-Bruteforcer && cd Wordpress-Bruteforcer && python2 wordpress.py
 ```
 <br>
-<h3><b>📸Screenshot</b></h3>
+<h3><b>📸Screenshot 1</b></h3>
+<br>
+<img src="https://github.com/darkhunter141/Wordpress-Bruteforcer/blob/main/IMG_20210508_161842.jpg?raw=true">
+<br>
+<br>
+<h3><b>📸Screenshot 2</b></h3>
 <br>
 <img src="https://github.com/darkhunter141/Wordpress-Bruteforcer/blob/main/IMG_20210508_161806.jpg?raw=true">
-<br>
-<br>
-<h3><b>📸Screenshot</b></h3>
-<br>
-<img src="">
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
 <h3><b><i>🖥️ Contact Info </i></b></h3>
