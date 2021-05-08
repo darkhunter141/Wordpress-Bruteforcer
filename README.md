@@ -7,10 +7,10 @@
  pkg install python2
 ```
 ```
- git clone https://github.com/darkhunter141/Fake-Address-Genaretor
+ git clone https://github.com/darkhunter141/Wordpress-Bruteforcer
 ```
 ```
- cd Fake-Address-Genaretor
+ cd Wordpress-Bruteforcer
 ```
 ```
  python2 main
@@ -18,7 +18,7 @@
 <h3><b>Copy & Paste</b></h3>
 
 ```
-pkg install python2 && git clone https://github.com/darkhunter141/Fake-Address-Genaretor && cd Fake-Address-Genaretor && python2 main
+pkg install python2 && https://github.com/darkhunter141/Wordpress-Bruteforcer && cd Wordpress-Bruteforcer && python2 wordpress.py
 ```
 <br>
 <h3><b>📸Screenshot</b></h3>
